@@ -1,4 +1,4 @@
-# PRODIGY_DS_01
+# Data Distribution Visualizer -- World Bank
 I am thrilled to announce that I have successfully completed a key task in my Data Science Internship at Prodigy InfoTech. This task involved a comprehensive analysis of World Bank data, where I delved deep into the intricacies of data cleaning and analysis.
 
 The first step was ensuring the data was clean and free from any missing values. This is a crucial step in any data science project as it lays the foundation for all subsequent analysis.
